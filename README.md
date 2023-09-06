@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kafakounain
-- 👀 I’m interested to leran new things
+- 👀 I’m interested to leran new things to explore new
 - 🌱 I’m currently learning undergraduate degree
-- 💞️ I’m looking to collaborate github
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with github
+- 📫 How to reach me ... @github account
 
 <!---
 Kafakounain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
